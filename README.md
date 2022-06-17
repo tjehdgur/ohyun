@@ -19,14 +19,11 @@ ol
 
 > life is short, use python!
 
-*1
-	*1
-		*1
+```python
+def hello();
+    print('hello world')
+```
 
-+	1
-	+1
-		+1
-
--1
-	-1
-		-1
+```html
+<h1>hello world</h1>
+```
