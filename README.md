@@ -1,6 +1,6 @@
 # ohyun
 
-h1, h1, h3...
+h1, h1, h3
 # hello
 ## hello
 ### hello
